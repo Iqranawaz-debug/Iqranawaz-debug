@@ -1,4 +1,4 @@
-<!-- GITHUB PROFILE README | Replace YOUR_USERNAME everywhere before publishing. -->
+```html
 <div align="center">
 
 <img src="assets/header.svg" alt="Iqra Nawaz — Data Science, AI and Machine Learning" width="100%" />
@@ -9,7 +9,7 @@
 
 <br/>
 
-<a href="https://github.com/YOUR_USERNAME?tab=repositories"><img src="https://img.shields.io/badge/Explore%20My%20Projects-14142B?style=for-the-badge&logo=github&logoColor=white" alt="Explore my projects" /></a>
+<a href="https://github.com/Iqranawaz-debug?tab=repositories"><img src="https://img.shields.io/badge/Explore%20My%20Projects-14142B?style=for-the-badge&logo=github&logoColor=white" alt="Explore my projects" /></a>
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img src="https://img.shields.io/badge/Let's%20Connect-6654C0?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 </div>
@@ -49,8 +49,6 @@ I'm **Iqra**, a Data Science developer with a focus on **AI, machine learning, N
 
 </div>
 
-> **Customization:** Remove any tools above you haven't actually used. A focused, accurate stack is more impressive than a long one.
-
 ---
 
 ### `> featured_builds`
@@ -66,7 +64,7 @@ A background workflow that recognizes screenshot content, generates meaningful f
 
 **Highlights:** content-based naming · categorization · organization dashboard
 
-<a href="https://github.com/YOUR_USERNAME/Screenshot_Organizer">View repository ↗</a>
+<a href="https://github.com/Iqranawaz-debug/Screenshot_Organizer">View repository ↗</a>
 </td>
 <td width="50%" valign="top">
 
@@ -77,7 +75,7 @@ A product-review sentiment classifier with preprocessing, model evaluation, and 
 
 **Highlights:** text features · sentiment prediction · evaluation
 
-<a href="https://github.com/YOUR_USERNAME">View projects ↗</a>
+<a href="https://github.com/Iqranawaz-debug?tab=repositories">View projects ↗</a>
 </td>
 </tr>
 <tr>
@@ -90,7 +88,7 @@ A healthcare-oriented application that explores data-driven medicine information
 
 **Highlights:** structured data · recommendation workflow · application UI
 
-<a href="https://github.com/YOUR_USERNAME">View projects ↗</a>
+<a href="https://github.com/Iqranawaz-debug?tab=repositories">View projects ↗</a>
 </td>
 <td width="50%" valign="top">
 
@@ -101,7 +99,7 @@ An intelligent document-processing project that extracts information from utilit
 
 **Highlights:** extraction · validation · question answering
 
-<a href="https://github.com/YOUR_USERNAME">View projects ↗</a>
+<a href="https://github.com/Iqranawaz-debug?tab=repositories">View projects ↗</a>
 </td>
 </tr>
 </table>
@@ -112,12 +110,13 @@ An intelligent document-processing project that extracts information from utilit
 
 <div align="center">
 
-<img height="168" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=60A5FA&text_color=CBD5E1" alt="GitHub statistics" />
-<img height="168" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=CBD5E1&langs_count=6" alt="Most-used GitHub repository languages" />
+<img height="168" src="https://github-readme-stats.vercel.app/api?username=Iqranawaz-debug&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=60A5FA&text_color=CBD5E1" alt="GitHub statistics" />
+
+<img height="168" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iqranawaz-debug&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=CBD5E1&langs_count=6" alt="Most-used GitHub repository languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=60A5FA&currStreakLabel=A78BFA" alt="GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com?user=Iqranawaz-debug&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=60A5FA&currStreakLabel=A78BFA" alt="GitHub contribution streak" />
 
 </div>
 
@@ -141,3 +140,4 @@ An intelligent document-processing project that extracts information from utilit
 <sub>Thanks for visiting · Explore a project, share feedback, or connect.</sub>
 
 </div>
+```
