@@ -1,0 +1,33 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse"><stop stop-color="#080D1F"/><stop offset="0.54" stop-color="#151235"/><stop offset="1" stop-color="#101C31"/></linearGradient>
+ <linearGradient id="line" x1="0" y1="0" x2="1200" y2="0"><stop stop-color="#BFA4FF"/><stop offset="0.53" stop-color="#7F7CFF"/><stop offset="1" stop-color="#42E6D2"/></linearGradient>
+ <linearGradient id="orb" x1="750" y1="20" x2="1160" y2="350"><stop stop-color="#B89CFF"/><stop offset="0.58" stop-color="#6F83F5"/><stop offset="1" stop-color="#4FF0D5"/></linearGradient>
+ <radialGradient id="glow"><stop stop-color="#8063F4" stop-opacity=".36"/><stop offset="1" stop-color="#8063F4" stop-opacity="0"/></radialGradient>
+ <pattern id="grid" width="35" height="35" patternUnits="userSpaceOnUse"><path d="M35 0H0V35" stroke="#B3BCFF" stroke-opacity=".065"/></pattern>
+ <clipPath id="clip"><rect width="1200" height="360" rx="22"/></clipPath>
+</defs>
+<g clip-path="url(#clip)">
+ <rect width="1200" height="360" fill="url(#bg)"/>
+ <rect width="1200" height="360" fill="url(#grid)"/>
+ <circle cx="936" cy="177" r="258" fill="url(#glow)"/>
+ <path d="M0 0H1200" stroke="url(#line)" stroke-width="6"/>
+ <rect x="55" y="46" width="188" height="30" rx="15" fill="#A98BFF" fill-opacity=".11" stroke="#A98BFF" stroke-opacity=".40"/>
+ <circle cx="72" cy="61" r="4" fill="#4FE7CB"/>
+ <text x="86" y="66" fill="#D7D0FF" font-size="13" font-family="Arial, Helvetica, sans-serif" font-weight="600" letter-spacing="1.4">PORTFOLIO / 2026</text>
+ <text x="55" y="165" fill="#FFFFFF" font-size="64" font-weight="700" font-family="Arial, Helvetica, sans-serif" letter-spacing="-2">Iqra Nawaz</text>
+ <rect x="57" y="187" width="78" height="4" rx="2" fill="url(#line)"/>
+ <text x="55" y="235" fill="#C1B6FF" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="600">Data Science  <tspan fill="#5AF0D5">×</tspan>  Applied AI</text>
+ <text x="55" y="277" fill="#A9B9D0" font-size="17" font-family="Arial, Helvetica, sans-serif">Building intelligent tools for real-world problems.</text>
+ <text x="56" y="329" fill="#7C91B2" font-size="13" font-family="monospace" letter-spacing="1.5">PYTHON  /  NLP  /  MACHINE LEARNING  /  AUTOMATION</text>
+ <!-- orbital emblem -->
+ <circle cx="963" cy="181" r="125" stroke="#9A90EF" stroke-opacity=".23" stroke-width="1.4" stroke-dasharray="3 9"/>
+ <circle cx="963" cy="181" r="91" stroke="url(#orb)" stroke-opacity=".7" stroke-width="2"/>
+ <circle cx="963" cy="181" r="56" fill="#101932" stroke="#BFA4FF" stroke-opacity=".48" stroke-width="1.6"/>
+ <path d="M934 202L955 157L971 192L982 171L996 204" stroke="url(#orb)" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+ <path d="M963 56V82M963 280V306M838 181H864M1062 181H1088" stroke="#6FE4D5" stroke-opacity=".48" stroke-width="2"/>
+ <circle cx="1063" cy="122" r="9" fill="#66E7DA"/><circle cx="884" cy="127" r="7" fill="#B99CFF"/><circle cx="997" cy="266" r="6" fill="#B99CFF"/>
+ <path d="M1063 122L1035 143M884 127L913 144M997 266L986 238" stroke="#C3BAFF" stroke-opacity=".45"/>
+ <text x="1100" y="326" fill="#697F9E" font-size="12" font-family="monospace">IN // 01</text>
+</g>
+</svg>
