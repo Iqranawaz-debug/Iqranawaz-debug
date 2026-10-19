@@ -1,16 +1,55 @@
-## Hi there 👋
 
-<!--
-**Iqranawaz-debug/Iqranawaz-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# Hi, I'm Iqra Nawaz!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Data Science | AI & Machine Learning | Python Developer
+
+Turning ideas into intelligent, practical applications.
+
+</div>
+
+---
+
+### About Me
+
+- Data Science graduate from NED University
+- Passionate about Artificial Intelligence and Machine Learning
+- Building intelligent automation and data-driven applications
+- Exploring NLP, Computer Vision, and Agentic AI
+
+### Tech Stack
+
+**Languages:** Python, SQL, JavaScript
+
+**AI & Data Science:** Machine Learning, NLP, Pandas, NumPy, Scikit-learn
+
+**Development:** Streamlit, Git, GitHub, VS Code
+
+### Featured Projects
+
+**Screenshot Organizer & Automation**  
+Automatically organizes screenshots using OCR and intelligent categorization.
+
+**Sentiment Analysis on Product Reviews**  
+Classifies customer reviews using Natural Language Processing.
+
+**Medicine Recommendation System**  
+A healthcare-related decision-support application.
+
+### Currently Exploring
+
+- Advanced Machine Learning
+- Agentic AI
+- Intelligent Automation
+- Real-world AI Applications
+
+---
+
+<div align="center">
+
+### Let's Connect!
+
+Open to collaboration, learning, and exciting opportunities.
+
+</div>
