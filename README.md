@@ -1,4 +1,3 @@
-```html
 <div align="center">
 
 <img src="assets/header.svg" alt="Iqra Nawaz — Data Science, AI and Machine Learning" width="100%" />
@@ -131,7 +130,6 @@ An intelligent document-processing project that extracts information from utilit
 02 / LEARN       Keep experimenting with ML and emerging AI systems.
 03 / EXPLAIN     Make complex technology understandable and useful.
 04 / IMPROVE     Test, iterate, document, and ship better software.
-```
 
 <div align="center">
 
@@ -140,4 +138,3 @@ An intelligent document-processing project that extracts information from utilit
 <sub>Thanks for visiting · Explore a project, share feedback, or connect.</sub>
 
 </div>
-```
