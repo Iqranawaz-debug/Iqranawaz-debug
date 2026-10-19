@@ -1,55 +1,143 @@
-
+<!-- GITHUB PROFILE README | Replace YOUR_USERNAME everywhere before publishing. -->
 <div align="center">
 
-# Hi, I'm Iqra Nawaz!
+<img src="assets/header.svg" alt="Iqra Nawaz — Data Science, AI and Machine Learning" width="100%" />
 
-### Data Science | AI & Machine Learning | Python Developer
+<br/>
 
-Turning ideas into intelligent, practical applications.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3200&pause=950&color=A78BFA&center=true&vCenter=true&width=720&lines=Data+Science+%7C+AI+%7C+Machine+Learning;Building+practical+intelligent+applications;Python+%E2%80%A2+NLP+%E2%80%A2+Automation+%E2%80%A2+Analytics" alt="Animated developer introduction" />
+
+<br/>
+
+<a href="https://github.com/YOUR_USERNAME?tab=repositories"><img src="https://img.shields.io/badge/Explore%20My%20Projects-14142B?style=for-the-badge&logo=github&logoColor=white" alt="Explore my projects" /></a>
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img src="https://img.shields.io/badge/Let's%20Connect-6654C0?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 </div>
 
 ---
 
-### About Me
+### `> whoami`
 
-- Data Science graduate from NED University
-- Passionate about Artificial Intelligence and Machine Learning
-- Building intelligent automation and data-driven applications
-- Exploring NLP, Computer Vision, and Agentic AI
+I'm **Iqra**, a Data Science developer with a focus on **AI, machine learning, NLP, and useful automation**. I enjoy translating complicated problems into simple, practical tools—from understanding text to organizing digital workflows.
 
-### Tech Stack
-
-**Languages:** Python, SQL, JavaScript
-
-**AI & Data Science:** Machine Learning, NLP, Pandas, NumPy, Scikit-learn
-
-**Development:** Streamlit, Git, GitHub, VS Code
-
-### Featured Projects
-
-**Screenshot Organizer & Automation**  
-Automatically organizes screenshots using OCR and intelligent categorization.
-
-**Sentiment Analysis on Product Reviews**  
-Classifies customer reviews using Natural Language Processing.
-
-**Medicine Recommendation System**  
-A healthcare-related decision-support application.
-
-### Currently Exploring
-
-- Advanced Machine Learning
-- Agentic AI
-- Intelligent Automation
-- Real-world AI Applications
+- 🎓 Data Science · NED University
+- 🧠 Focus: Applied ML, NLP, intelligent automation and explainable solutions
+- 🛠️ Building: End-to-end applications that connect models to clean, usable interfaces
+- 🌱 Learning: Agentic AI, MLOps, and production-ready ML workflows
 
 ---
 
+### `> tech_stack`
+
 <div align="center">
 
-### Let's Connect!
+**Languages & development**
 
-Open to collaboration, learning, and exciting opportunities.
+<img src="https://skillicons.dev/icons?i=py,js,git,github,vscode&theme=dark" alt="Python JavaScript Git GitHub VS Code" />
+
+**Data & machine learning**
+
+<img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch,sqlite&theme=dark" alt="Scikit-learn TensorFlow PyTorch SQLite" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/NLP-6D28D9?style=flat-square" />
+<img src="https://img.shields.io/badge/SQL-22577A?style=flat-square" />
+
+</div>
+
+> **Customization:** Remove any tools above you haven't actually used. A focused, accurate stack is more impressive than a long one.
+
+---
+
+### `> featured_builds`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 📸 Screenshot Organizer
+**OCR · Python · Automation**
+
+A background workflow that recognizes screenshot content, generates meaningful filenames, and organizes images automatically.
+
+**Highlights:** content-based naming · categorization · organization dashboard
+
+<a href="https://github.com/YOUR_USERNAME/Screenshot_Organizer">View repository ↗</a>
+</td>
+<td width="50%" valign="top">
+
+#### 💬 Review Sentiment Analysis
+**NLP · Machine Learning · Text Classification**
+
+A product-review sentiment classifier with preprocessing, model evaluation, and a user-facing analysis experience.
+
+**Highlights:** text features · sentiment prediction · evaluation
+
+<a href="https://github.com/YOUR_USERNAME">View projects ↗</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🩺 Medicine Recommendation System
+**Python · Data Science · Decision Support**
+
+A healthcare-oriented application that explores data-driven medicine information and recommendations, with an emphasis on responsible usage.
+
+**Highlights:** structured data · recommendation workflow · application UI
+
+<a href="https://github.com/YOUR_USERNAME">View projects ↗</a>
+</td>
+<td width="50%" valign="top">
+
+#### ⚡ Utility Bill Decoder
+**AI · Document Understanding · Validation**
+
+An intelligent document-processing project that extracts information from utility bills and answers questions grounded in bill data.
+
+**Highlights:** extraction · validation · question answering
+
+<a href="https://github.com/YOUR_USERNAME">View projects ↗</a>
+</td>
+</tr>
+</table>
+
+---
+
+### `> github_analytics`
+
+<div align="center">
+
+<img height="168" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=60A5FA&text_color=CBD5E1" alt="GitHub statistics" />
+<img height="168" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=CBD5E1&langs_count=6" alt="Most-used GitHub repository languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=60A5FA&currStreakLabel=A78BFA" alt="GitHub contribution streak" />
+
+</div>
+
+<sub>GitHub charts are generated by external services and may sometimes be unavailable. Language stats reflect public repository code, not overall skill.</sub>
+
+---
+
+### `> what_i_care_about`
+
+```text
+01 / BUILD       Turn ideas into working applications.
+02 / LEARN       Keep experimenting with ML and emerging AI systems.
+03 / EXPLAIN     Make complex technology understandable and useful.
+04 / IMPROVE     Test, iterate, document, and ship better software.
+```
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,55:4c1d95,100:0e7490&height=110&section=footer" width="100%" alt="Purple and teal footer" />
+
+<sub>Thanks for visiting · Explore a project, share feedback, or connect.</sub>
 
 </div>
